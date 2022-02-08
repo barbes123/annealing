@@ -1,0 +1,14 @@
+{
+  "InfluxDB": {
+    "host": "172.18.4.156",
+    "port": "8086",
+    "database": "Annealing",
+    "msr_name": "Annealing_Monitor"
+  },
+  "Call-Monitor_Variables": {
+    "url": "https://www.google.com",
+    "timeout": 5,
+    "tht": 2000,
+    "thp": 0.00014
+  }
+}

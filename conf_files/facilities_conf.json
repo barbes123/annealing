@@ -1,0 +1,22 @@
+{
+  "Call-Monitor_Variables": {
+    "remaining_time_th": 30,
+    "phone_array": [
+      "+40725128477",
+      "+40729778846"
+    ],
+    "CN": 1,
+    "SEU": 0,
+    "UPS_address": "http://172.18.6.243/cgi-bin/realInfo.cgi",
+    "UFT": 0,
+    "UFM": 0,
+    "SEN": 0
+  },
+  "Email_credentials": {
+    "email_sender": "grafanaalarmingservice@gmail.com",
+    "password_sender": "Analiza_E8",
+    "email_receiver": [
+      "gnitescu4@gmail.com"
+    ]
+  }
+}
